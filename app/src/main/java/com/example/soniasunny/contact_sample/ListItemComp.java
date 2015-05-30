@@ -25,7 +25,7 @@ public class ListItemComp{
     }
 
      public List getListData() {
-        int[] images ={R.drawable.a,R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e};
+        int[] images ={R.drawable.,R.drawable.b,R.drawable.c,R.drawable.d,R.drawable.e};
         String[] number= new String[5];
         String [] names ={"Joe","Bob","Marley","Philip","Henry"};
 
